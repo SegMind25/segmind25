@@ -72,10 +72,10 @@
 
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=iodx2004&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=SegMind25&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
   
-![](https://github-readme-streak-stats.herokuapp.com/?user=iodx2004&theme=dark&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=SegMind25&theme=dark&hide_border=true)
   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iodx2004&theme=dark&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SegMind25&theme=dark&hide_border=true&layout=compact)
 
 </div>
