@@ -78,4 +78,6 @@
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SegMind25&theme=dark&hide_border=true&layout=compact)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SegMind25)](https://git.io/streak-stats)
+
 </div>
