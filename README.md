@@ -17,7 +17,7 @@
 ### 🎓 My Certificates
 [![CS50 Certificate](https://img.shields.io/badge/CS50-Harvard-blue?logo=harvard&logoColor=white)](https://cs50.harvard.edu/certificates/a50df31a-531d-42fb-b633-1774dd6469a1)
 [![Claude Code Certificate](https://img.shields.io/badge/Claude%20Code-Anthropic-blue?logo=anthropic&logoColor=white)](http://verify.skilljar.com/c/njm3qne9tbat)
-[![Claude 101 Certificate](https://img.shields.io/badge/Claude%20Code-Anthropic-blue?logo=anthropic&logoColor=white)](http://verify.skilljar.com/c/6r2cnjdea3s7)
+[![Claude 101 Certificate](https://img.shields.io/badge/Claude%20101%20Certificate-Anthropic-blue?logo=anthropic&logoColor=white)](http://verify.skilljar.com/c/6r2cnjdea3s7)
 ---
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/0-don/0-don/output/github-contribution-grid-snake-dark.svg)
