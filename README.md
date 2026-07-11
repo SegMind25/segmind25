@@ -42,6 +42,7 @@
 
 ### DevOps & Tools
 
+![vim](https://img.shields.io/badge/vim-black?style=flat-square&logo=vim)
 ![vscode](https://custom-icon-badges.herokuapp.com/badge/vscode-black.svg?logo=visual-studio-code&logoColor=007ACC&style=flat-square)
 ![clion](https://img.shields.io/badge/clion-black?style=flat-square&logo=clion)
 ![git](https://img.shields.io/badge/git-black?style=flat-square&logo=git)
