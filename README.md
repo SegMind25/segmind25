@@ -68,3 +68,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SegMind25&theme=dark&hide_border=true&layout=compact)
 
 </div>
+
+## My Rank :)
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/SegMind25/svg?graph=1&tokens=full&cost=full)](https://tokscale.ai/u/SegMind25)
