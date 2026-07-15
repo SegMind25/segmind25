@@ -69,6 +69,9 @@
 
 </div>
 
-## My Rank :)
+
+<div align="center">
 
 [![Tokscale Stats](https://tokscale.ai/api/embed/SegMind25/svg?graph=1&tokens=full&cost=full)](https://tokscale.ai/u/SegMind25)
+
+</div>
