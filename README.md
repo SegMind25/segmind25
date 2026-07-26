@@ -67,6 +67,8 @@
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SegMind25&theme=dark&hide_border=true&layout=compact)
 
+[![GradeMe profile card for @notbekkali](https://grademe.fr/api/cards/6d795141-deb2-4cbb-81f0-bbab2d7b810d.svg)](https://grademe.fr/app/user/945fe40f-749d-4d00-9205-e9c72fcb92b8)
+
 </div>
 
 
