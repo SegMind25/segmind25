@@ -31,10 +31,10 @@
 
 | Certificate | Issuer | Verify |
 | :--- | :---: | :---: |
-| 🎓 **CS50** | Harvard University | [![Verify](https://img.shields.io/badge/Verify-A51C30?style=for-the-badge&logo=harvard&logoColor=white)](https://cs50.harvard.edu/certificates/a50df31a-531d-42fb-b633-1774dd6469a1) |
-| 🤖 **Claude Code** | Anthropic | [![Verify](https://img.shields.io/badge/Verify-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://verify.skilljar.com/c/njm3qne9tbat) |
-| 🤖 **Claude 101** | Anthropic | [![Verify](https://img.shields.io/badge/Verify-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://verify.skilljar.com/c/6r2cnjdea3s7) |
-| 🤖 **Anthropic Academy** | Anthropic | [![Verify](https://img.shields.io/badge/Verify-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://verify.skilljar.com/c/wxbs7rtbhan2) |
+| <img src="assets/certificates/cs50.svg" width="24" height="24" align="center" alt="cs50" /> **CS50** | Harvard University | [![Verify](https://img.shields.io/badge/Verify-A51C30?style=for-the-badge&logo=harvard&logoColor=white)](https://cs50.harvard.edu/certificates/a50df31a-531d-42fb-b633-1774dd6469a1) |
+| <img src="assets/certificates/claude.svg" width="24" height="24" align="center" alt="claude" /> **Claude Code** | <img src="assets/certificates/anthropic.svg" width="24" height="24" align="center" alt="anthropic" /> Anthropic | [![Verify](https://img.shields.io/badge/Verify-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://verify.skilljar.com/c/njm3qne9tbat) |
+| <img src="assets/certificates/claude.svg" width="24" height="24" align="center" alt="claude" /> **Claude 101** | <img src="assets/certificates/anthropic.svg" width="24" height="24" align="center" alt="anthropic" /> Anthropic | [![Verify](https://img.shields.io/badge/Verify-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://verify.skilljar.com/c/6r2cnjdea3s7) |
+| <img src="assets/certificates/claude.svg" width="24" height="24" align="center" alt="claude" /> **Claude Code 101** | <img src="assets/certificates/anthropic.svg" width="24" height="24" align="center" alt="anthropic" /> Anthropic | [![Verify](https://img.shields.io/badge/Verify-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://verify.skilljar.com/c/wxbs7rtbhan2) |
 
 </div>
 
