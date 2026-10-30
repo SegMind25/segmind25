@@ -83,15 +83,15 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SegMind25&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SegMind27&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=SegMind25&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=segmind27&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SegMind25&theme=dark&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=segmind27&theme=dark&hide_border=true&layout=compact)
 
 [![GradeMe profile card for @notbekkali](https://grademe.fr/api/cards/6d795141-deb2-4cbb-81f0-bbab2d7b810d.svg)](https://grademe.fr/app/user/945fe40f-749d-4d00-9205-e9c72fcb92b8)
 
-[![Tokscale Stats](https://tokscale.ai/api/embed/SegMind25/svg?graph=1&tokens=full&cost=full)](https://tokscale.ai/u/SegMind25)
+[![Tokscale Stats](https://tokscale.ai/api/embed/segmind27/svg?graph=1&tokens=full&cost=full)](https://tokscale.ai/u/segmind27)
 
 </div>
 
